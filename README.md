@@ -7,11 +7,9 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-light.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-light-mode-only)
 [![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-dark.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-dark-mode-only)
