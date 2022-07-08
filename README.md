@@ -13,8 +13,8 @@
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+[(./img/linkedin-light.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-light-mode-only)
+[(./img/linkedin-dark.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-dark-mode-only)
 
 
 <summary>:zap: GitHub Stats</summary>
