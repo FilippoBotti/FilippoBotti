@@ -7,12 +7,12 @@
 
 ### Connect with me:
 
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-light.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-light-mode-only)
 [![https://it.linkedin.com/in/filippo-botti-a42245145](./img/linkedin-dark.svg)](https://it.linkedin.com/in/filippo-botti-a42245145#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCerb4KBSmGLo27dCEuoZuJg#gh-dark-mode-only)
+
 
 
 <summary>:zap: GitHub Stats</summary>
