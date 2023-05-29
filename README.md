@@ -1,7 +1,7 @@
 # Hi there, I'm Filippo 👋 
 
 
-## I'm a Student, Developer and a Refree!
+## I'm a Student, Developer and a Referee!
 
 
 
