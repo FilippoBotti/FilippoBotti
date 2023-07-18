@@ -1,5 +1,5 @@
 # Hi there, I'm Filippo 👋 
-
+You can find a list of my publications on my Google Scholar [Profile](https://scholar.google.com/citations?user=VBNzuGwAAAAJ&hl=it&authuser=1&oi=ao)
 
 ## I'm a Student, Developer and a Referee!
 
